@@ -6,7 +6,7 @@ Welcome to my portfolio site! I specialize in statistical modeling, data visuali
 ## 🔬 Featured Projects
 
 - **Weather Forecast Model**  
-  Improved local prediction accuracy by 23%. [View Demo](https://streamlit-link) -coming soon
+  [View Demo](https://streamlit-link) -coming soon
   
 - **Data Dashboard**  
   Exploratory dashboard for economic trends. [View Tableau / Python App](https://link) -coming soon
